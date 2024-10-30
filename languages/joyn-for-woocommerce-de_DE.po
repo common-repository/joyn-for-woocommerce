@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-20 23:02+0200\n"
+"PO-Revision-Date: 2021-08-28 23:24+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_BE\n"
+
+#. Plugin Name of the plugin
+msgid "Joyn for WooCommerce"
+msgstr "Joyn for WooCommerce"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.joyn.be"
+msgstr "https://www.joyn.be"
+
+#. Description of the plugin
+msgid "With the Joyn for WooCommerce plug-in, your customers can easily save Joyn points through your webshop."
+msgstr "Mit dem Plugin Joyn for WooCommerce können auch Ihre Kunden in Ihrem Webshop ganz einfach Joyn-Punkte sammeln."
+
+#. Author of the plugin
+#: Joyn/Settings/SettingsView.php:60
+msgid "Joyn loyalty"
+msgstr "Joyn Loyalty"
+
+#: Joyn/Settings/SettingsView.php:61
+msgid "With Joyn's loyalty programme, your customers enjoy unique advantages and with each one of their purchases, they'll save points for cool rewards and extra discounts."
+msgstr "Mit dem Treueprogramm von Joyn genießen Ihre Kunden einzigartige Vorteile und sammeln bei jedem Einkauf Punkte für tolle Prämien und zusätzliche Rabatte."
+
+#: Joyn/Settings/SettingsView.php:62
+msgid "Install the Joyn for WooCommerce plug-in so your customers can save points when shopping in your WooCommerce webshop."
+msgstr "Wenn Sie das Plugin Joyn for WooCommerce installieren, können auch Ihre Kunden beim Einkaufen in Ihrem WooCommerce-Webshop Punkte sammeln."
+
+#: Joyn/Settings/SettingsView.php:63
+msgid "Generate your unique integration code on the Joyn Merchant Portal and enter it on this page to link your webshop to your Joyn account."
+msgstr "Generieren Sie über das Joyn-Händlerportal einen individuellen Integrationscode und geben Sie diesen Code anschließend auf dieser Seite ein, um Ihren Webshop und Ihr Joyn-Konto zu verknüpfen."
+
+#: Joyn/Settings/SettingsView.php:64
+msgid "Next, copy the below web domain and enter it on the Joyn Merchant Portal."
+msgstr "Kopieren Sie dann die unten stehende Web-Domain und tragen Sie sie im Joyn-Händlerportal ein."
+
+#: Joyn/QRCode/QRCodeView.php:34
+msgid "Scan with the Joyn-app and earn %d point."
+msgstr "Mit der Joyn-App scannen und %d Punkt verdienen."
+
+#: Joyn/QRCode/QRCodeView.php:34
+msgid "Scan with the Joyn-app and earn %d points."
+msgstr "Mit der Joyn-App scannen und %d Punkte sammeln."
+
+#: Joyn/Settings/SettingsView.php:68
+msgid "Domain name"
+msgstr "Domainname"
+
+#: Joyn/Settings/SettingsView.php:72
+msgid "API token"
+msgstr "API token"
+
+#: Joyn/Settings/SettingsView.php:76
+msgid "Show QR on thank you page"
+msgstr "QR auf der Dankesseite anzeigen"
+
+#: Joyn/Settings/SettingsView.php:80
+msgid "Show QR on order"
+msgstr "QR bei Bestellung anzeigen"
+
+#: Joyn/Settings/SettingsView.php:84
+msgid "Show QR in mail"
+msgstr "QR in Mail anzeigen"
+
+#: Joyn/Settings/SettingsView.php:87
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: Joyn/Settings/SettingsLoader.php:81
+msgid "Link active."
+msgstr "Link aktiv."
+
+#: Joyn/Settings/SettingsLoader.php:77
+msgid "API Key invalid. Try again."
+msgstr "API Key ungültig. Versuchen Sie es nochmal."

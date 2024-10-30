@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-20 23:02+0200\n"
+"PO-Revision-Date: 2021-08-20 23:02+0200\n"
+"Last-Translator: Kevin Pittevils <kevinpittevils098@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Plugin Name of the plugin
+msgid "Joyn for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.joyn.be"
+msgstr ""
+
+#. Description of the plugin
+msgid "With the Joyn for WooCommerce plug-in, your customers can easily save Joyn points through your webshop."
+msgstr ""
+
+#. Author of the plugin
+#: Joyn/Settings/SettingsView.php:60
+msgid "Joyn loyalty"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:61
+msgid "With Joyn's loyalty programme, your customers enjoy unique advantages and with each one of their purchases, they'll save points for cool rewards and extra discounts."
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:62
+msgid "Install the Joyn for WooCommerce plug-in so your customers can save points when shopping in your WooCommerce webshop."
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:63
+msgid "Generate your unique integration code on the Joyn Merchant Portal and enter it on this page to link your webshop to your Joyn account."
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:64
+msgid "Next, copy the below web domain and enter it on the Joyn Merchant Portal."
+msgstr ""
+
+#: Joyn/QRCode/QRCodeView.php:34
+msgid "Scan with the Joyn-app and earn %d point."
+msgstr ""
+
+#: Joyn/QRCode/QRCodeView.php:34
+msgid "Scan with the Joyn-app and earn %d points."
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:68
+msgid "Domain name"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:72
+msgid "API token"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:76
+msgid "Show QR on thank you page"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:80
+msgid "Show QR on order"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:84
+msgid "Show QR in mail"
+msgstr ""
+
+#: Joyn/Settings/SettingsView.php:87
+msgid "Save Changes"
+msgstr ""
+
+#: Joyn/Settings/SettingsLoader.php:81
+msgid "Link active."
+msgstr ""
+
+#: Joyn/Settings/SettingsLoader.php:77
+msgid "API Key invalid. Try again."
+msgstr ""

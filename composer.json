@@ -1,0 +1,15 @@
+{
+    "name": "joyn/woocommerce-plugin",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Joyn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Joyn\\": "Joyn/"
+        }
+    }
+}
